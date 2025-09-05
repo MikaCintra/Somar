@@ -1,16 +1,38 @@
-# somar_app
+# 📱 Somar
 
-A new Flutter project.
+Projeto integrador desenvolvido em Flutter com foco em **mobile first**.  
+O aplicativo tem como objetivo aproximar **ONGs, doadores e voluntários**, permitindo organizar campanhas, acompanhar doações e facilitar a colaboração social.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Funcionalidades (MVP)
 
-A few resources to get you started if this is your first Flutter project:
+- Seleção de perfil: ONG, Doador ou Voluntário  
+- Login simples (mock, sem backend)  
+- Lista de campanhas exibindo:
+  - Título  
+  - Categoria (Alimentos, Roupas, etc.)  
+  - Cidade  
+  - Status (Pendente, Em andamento, Concluído)  
+- Perfil do usuário/ONG  
+- Navegação básica entre telas
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+> 🔜 Futuras implementações:
+> - Cadastro de usuários  
+> - Criação de campanhas (ONGs)  
+> - Filtros por cidade, categoria e status  
+> - Detalhes de campanha  
+> - Integração com backend/API  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠️ Tecnologias utilizadas
+
+- [Flutter](https://flutter.dev/) (SDK 3.9.0+)  
+- [Dart](https://dart.dev/)  
+- Material Design  
+
+---
+
+## Projeto em desenvolvimento 
+
